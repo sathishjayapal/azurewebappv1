@@ -1,0 +1,12 @@
+{
+  "generator-springboot": {
+    "appName": "azurewebappv1",
+    "packageName": "me.sathish.azurewebapp1",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "none",
+    "dbMigrationFormat": "yaml",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "me/sathish/azurewebapp1"
+  }
+}
